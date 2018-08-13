@@ -31,7 +31,7 @@ $ npm start
 # What the program looks like 
 * __After build up the whole project,open program with address http://127.0.0.1:8080/#/ in browser__
 
-![image](https://github.com/dylanzhang123456/luckydraw/tree/master/client/src/assets/demo.jpg)
+![image](https://github.com/dylanzhang123456/luckydraw/raw/master/client/src/assets/demo.jpg)
 
 # Learn more...
 * __Vue.js__:https://cn.vuejs.org/
