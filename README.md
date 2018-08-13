@@ -30,7 +30,7 @@ $ npm start
 ```  
 # What the program looks like 
 * __After build up the whole project,open program with address http://127.0.0.1:8080/#/ in browser__
-
+* __It will looks like__:
 ![image](https://github.com/dylanzhang123456/luckydraw/raw/master/client/src/assets/demo.jpg)
 
 # Learn more...
