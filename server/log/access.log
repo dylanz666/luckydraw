@@ -1,2 +1,0 @@
-GET /api/getPrizeInfo 304 - - 4.791 ms
-GET /api/getWinners 200 53 - 1.129 ms
